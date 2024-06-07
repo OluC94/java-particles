@@ -10,7 +10,7 @@ public class Main extends PApplet {
 
     @Override
     public void settings() {
-        size(800, 600);
+        size(850, 600);
     }
 
     @Override
